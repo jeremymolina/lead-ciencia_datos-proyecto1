@@ -27,7 +27,7 @@
 		<node id="23" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWDataTable" project_name="Orange3" version="" title="Data Table (2) (1) (1)" position="(1724.0, 179.0)" />
 		<node id="24" name="File" qualified_name="Orange.widgets.data.owfile.OWFile" project_name="Orange3" version="" title="File (3) (1) (1)" position="(873.0, 102.0)" />
 		<node id="25" name="Confusion Matrix" qualified_name="Orange.widgets.evaluate.owconfusionmatrix.OWConfusionMatrix" project_name="Orange3" version="" title="Confusion Matrix (1) (1)" position="(1769.0, 27.0)" />
-		<node id="26" name="Logistic Regression" qualified_name="Orange.widgets.model.owlogisticregression.OWLogisticRegression" project_name="Orange3" version="" title="Logistic Regression" position="(1429.0, 162.0)" />
+		<node id="26" name="Logistic Regression" qualified_name="Orange.widgets.model.owlogisticregression.OWLogisticRegression" project_name="Orange3" version="" title="Logistic Regression" position="(1374.0, 149.0)" />
 		<node id="27" name="Continuize" qualified_name="Orange.widgets.data.owcontinuize.OWContinuize" project_name="Orange3" version="" title="Continuize (1) (1)" position="(978.0, 595.0)" />
 		<node id="28" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="Data Sampler (1) (1) (1)" position="(1106.0, 593.0)" />
 		<node id="29" name="kNN" qualified_name="Orange.widgets.model.owknn.OWKNNLearner" project_name="Orange3" version="" title="kNN (1) (1) (1)" position="(1347.0, 425.0)" />
@@ -37,7 +37,7 @@
 		<node id="33" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWDataTable" project_name="Orange3" version="" title="Data Table (2) (1) (1) (1)" position="(1700.0, 672.0)" />
 		<node id="34" name="File" qualified_name="Orange.widgets.data.owfile.OWFile" project_name="Orange3" version="" title="File (3) (1) (1) (1)" position="(849.0, 595.0)" />
 		<node id="35" name="Confusion Matrix" qualified_name="Orange.widgets.evaluate.owconfusionmatrix.OWConfusionMatrix" project_name="Orange3" version="" title="Confusion Matrix (1) (1) (1)" position="(1745.0, 519.0)" />
-		<node id="36" name="Neural Network" qualified_name="Orange.widgets.model.owneuralnetwork.OWNNLearner" project_name="Orange3" version="" title="Neural Network" position="(1366.0, 646.0)" />
+		<node id="36" name="Neural Network" qualified_name="Orange.widgets.model.owneuralnetwork.OWNNLearner" project_name="Orange3" version="" title="Neural Network" position="(1352.0, 644.0)" />
 	</nodes>
 	<links>
 		<link id="0" source_node_id="0" sink_node_id="1" source_channel="Data Sample" sink_channel="Data" enabled="true" />
